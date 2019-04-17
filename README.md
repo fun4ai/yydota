@@ -1,1 +1,5 @@
 # yydota
+
+public void main (){
+
+}
